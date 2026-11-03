@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 def main():
-    print("Running scrapper one...")
+  
     print("Running scrapper one...")
 
   ## url: https://finance.yahoo.com/quote/AAPL/history?p=AAPL
